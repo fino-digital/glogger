@@ -4,7 +4,7 @@ A python library for logging loguru messages straight to a gelf instance, for ex
 
 ## Install glogger
 
-Simply install it via pip: `pip install git+https://github.com/fino-digital/glogger.git`
+Simply install it via pip: `pip install glogger` and add to your `requirements.txt`: `glogger==1.0.0`
 
 ## Getting started
 Make sure the following environment variables have been set: `ENVIRONMENT`, `LOGGING_URL` and `LOG_FACILITY`
