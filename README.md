@@ -1,6 +1,6 @@
 # glogger
 
-A python library for logging loguru messages straight to a gelf instance, for example Sematext via HTTP
+A python library for logging [loguru](https://github.com/Delgan/loguru) messages straight to a gelf instance, for example Sematext via HTTP
 
 ## Install glogger
 
